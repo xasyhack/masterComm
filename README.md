@@ -48,24 +48,66 @@
   - conside emails can save time  
 
 # Meetings
-- introduction and in-person meetings
+- In-person meetings
+  - dress code, introduction for audiene, body language, eye contact, pay attention
 - remote meetings
+  - using webcam, make sure you can be heard, tone 
 - running a meeting
+  - two pizza rule (keep it small)
+  - do you need a meeting
+  - send agenda in advance
+  - only invite those who need to be there
+  - start on time and stick to agenda
+  - someone should take notes
+  - send a recap afterwards
 - meetings with your manager
+  - what communication style works for you
+  - 1-1 meetings are your time, not theirs
 - meeting with your employees
+  - likely a mix of personalities and communication styles
+  - give feedback as soon as possible
+  - reviews should not contain surprises
+  - they may not like you, but you want to earn their respect  
 - intra-team relationships
+  - find out the preferred communication channel
+  - be polite, respectful, and grateful
+  - do research before asking a question
+  - try to solve a team problem before escalating
+  - be helpful and others will help you
+  - give credit when it's due to other
+- inter-team relationsship
+  - dont be combative or accusatory
+  - organize regular meetings to show how your team works
+  - organize regular meetings to discuss methods and processess  
 - meetings with clients
-- code/design reviews
+  - who are the audience
+  - what are you trying to convey
+  - what if they tell another person/team
+  - am i communicting in clien's best interest
+  - am i giving a credible and correct opinion
+  - am i 100% tehnical content
+  - is my tone correct?
 
 # Writting
-- introduction and general writting skills
+- General writting skills
+  - spelling check, grammar check, use proper capitalization and punctuation
+  - break up long paragraphs  
 - additional writting skills
+  - ask someone to proofread your writting
+  - use images or charts
+  - keep the language appropriate  
 - email can be dangerous and politeness costs nothing
+  - to, cc lists
+  - don't abuse reply-all or Bcc
+  - politeness: greeting, please do, thanks..
 - beware of reality long emails and email clarity
-- social networks and forums
+  - people may only read first few sentences
+  - use headings to break up the email
+  - include a summary of most important points at the end
+  - make it clear if asking for something to be done  + day/time  
 - reports and articles
-- blogging
-- blogging Dos and Don's
+  - clear purpose
+  - structure: intro, sections, summary, appendices  
 
 # Writing a Presentation
 - introduction and what kind of presentation
