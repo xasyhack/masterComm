@@ -1,3 +1,24 @@
+# Vinh Giang Stage Academy
+- Module 1 - The Basics
+  - 88 keys: use your voice as instrument
+  - only practice leads to improvement
+  - No automatic transfer of skills: Your voice is your personality, speak to neutral ears people, judgements are temporary
+  - Generousity of energy when communicate
+  - remove non/filler words
+  - visual image: body language, people assumptions about your dress/smile
+  - vocal image: belief
+- Module 2 - Vocal Foundations
+  - rate of speech
+  - volume
+  - pitch & melody
+  - tonality
+  - pauuse
+  - self awareness
+  - powerful rapport techniques  
+- Module 3 - Vocal Archetypes
+- Module 4 - Storytelling
+- Module 5 - Body Language
+
 # Skills necessary for good communications
 - Expressing yourself
   - can you describe to yourself what you're tyring to say?
