@@ -8,8 +8,8 @@
   - visual image: body language, people assumptions about your dress/smile
   - vocal image: belief
 - Module 2 - Vocal Foundations
-  - rate of speech
-  - volume
+  - rate of speech: vary (more influencial), unpredicatable (sometime slow - important, sometime fast - important) to hold your attention
+  - volume:
   - pitch & melody
   - tonality
   - pauuse
